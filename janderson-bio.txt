@@ -8,3 +8,4 @@ following software products:
 	-Microshoft C3.nET
 	-Git & GitHub
 	-java
+	-mySQL
